@@ -1,0 +1,26 @@
+button{
+    padding:2px;
+    height:40px;
+    width:120px;
+    text-align: center;
+    margin-top:20px;
+    color:white;
+    border:none;
+    background-color:#0578fe;
+    border-radius:5px ;
+    margin-bottom:10px;
+}textarea{
+    height:200px;
+    width:400px;
+}
+.a1{
+    margin-top:5%;
+    height:70vh;
+    margin-left:10%;
+    margin-right:10%;
+
+    text-align: center;
+  place-self: center;
+    padding-top:2px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
